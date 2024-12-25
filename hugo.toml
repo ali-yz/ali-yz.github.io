@@ -1,0 +1,77 @@
+baseURL = "https://ali-yz.github.io/"
+title = "Ali Yazdizadeh"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+enableEmoji = true
+
+[pagination]
+pagerSize = 6
+
+[services]
+[services.disqus]
+# Enable Disqus comments
+# shortname = "yourdiscussshortname"
+
+[markup.highlight]
+noClasses = false
+
+[params]
+author = "Ali Yazdizadeh"
+description = "Ali's Personal Website"
+keywords = "blog,developer,portfolio,personal"
+info = ["ML Engineer", "Bioinformatics"]
+avatarURL = "images/Ali.jpg"
+dateFormat = "January 2, 2006"
+since = 2024
+commit = "https://github.com/ali-yz/ali-yz.github.io/tree/"
+rtl = false
+colorScheme = "auto"
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 5
+customCSS = []
+customSCSS = []
+customJS = []
+customRemoteJS = []
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/ali-yz/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/ali-yazdizade-kharrazi/"
+
+
+[languages.en]
+languageName = ":us:"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 3
+url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Contact"
+weight = 4
+url = "contact/"
