@@ -28,6 +28,6 @@ For a full list of my publications, check out my [Google Scholar](https://schola
 ## Personal Trivia
 - I enjoy blending my knowledge in biology and computer science to solve complex problems.
 - I speak English (full working proficiency) and Farsi (native).
-- I play [Santur](https://en.wikipedia.org/wiki/Santur) which is an old Persian instrument!
+- I'm learning to play [Santur](https://en.wikipedia.org/wiki/Santur) which is an old Persian instrument! Check out this performance by Arezoo Rezvani [here](https://www.youtube.com/watch?v=5X0y_YN3Vb8)!
 
 Feel free to explore my work, and if you have questions, suggestions, or just want to connect, don't hesitate to [reach out](https://ali-yz.github.io/contact/)!
