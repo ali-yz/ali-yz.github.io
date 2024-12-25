@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/authors/ali/</loc>
+    <loc>https://ali-yz.github.io/authors/ali/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ali-yz.github.io/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ali/</loc>
+    <loc>https://ali-yz.github.io/posts/ali/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://ali-yz.github.io/authors/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bb/</loc>
+    <loc>https://ali-yz.github.io/tags/bb/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://ali-yz.github.io/categories/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cc/</loc>
+    <loc>https://ali-yz.github.io/tags/cc/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/cc/</loc>
+    <loc>https://ali-yz.github.io/categories/cc/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://ali-yz.github.io/posts/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://ali-yz.github.io/tags/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://ali-yz.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://ali-yz.github.io/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://ali-yz.github.io/series/</loc>
   </url>
 </urlset>
