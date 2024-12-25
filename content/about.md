@@ -12,7 +12,7 @@ Hi there! My name is **Ali Yazdizadeh Kharrazi**, and I am a biotechnology gradu
   - **Max Planck Institute for Terrestrial Microbiology:** Designed a Bayesian Optimization tool for protein production (2020).
 
 ## Selected Publications
-- [https://www.biorxiv.org/content/10.1101/2024.01.29.577392v2.full.pdf](Orthology inference at scale with FastOMA) - *BioRxiv*
+- [Orthology inference at scale with FastOMA](https://www.biorxiv.org/content/10.1101/2024.01.29.577392v2.full.pdf) - *BioRxiv*
 - [When less is more: sketching with minimizers in genomics](https://link.springer.com/content/pdf/10.1186/s13059-024-03414-4.pdf) - *Genome Biology*
 - [A Versatile Active Learning Workflow for Optimization of Genetic and Metabolic Networks](https://doi.org/10.1038/s41467-022-31245-z) - *Nature Communications*
 - [COVID-19 Vaccine Prioritization: A Machine Learning Approach](https://doi.org/10.1016/j.heliyon.2022.e12753) - *Helyon Cell Press*
