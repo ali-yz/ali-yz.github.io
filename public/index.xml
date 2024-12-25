@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ali Yazdizadeh</title>
-    <link>https://ali-yz.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Ali Yazdizadeh</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 25 Dec 2024 11:37:48 +0330</lastBuildDate>
-    <atom:link href="https://ali-yz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alii</title>
-      <link>https://ali-yz.github.io/posts/ali/</link>
+      <link>http://localhost:1313/posts/ali/</link>
       <pubDate>Wed, 25 Dec 2024 11:37:48 +0330</pubDate>
-      <guid>https://ali-yz.github.io/posts/ali/</guid>
-      <description>&lt;p&gt;Aliiii&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/ali/</guid>
+      <description>&lt;p&gt;Aliiii is writing!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,33 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ali-yz.github.io/authors/ali/</loc>
+    <loc>http://localhost:1313/authors/ali/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>https://ali-yz.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>https://ali-yz.github.io/posts/ali/</loc>
+    <loc>http://localhost:1313/posts/ali/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>https://ali-yz.github.io/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>https://ali-yz.github.io/tags/bb/</loc>
+    <loc>http://localhost:1313/tags/bb/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>https://ali-yz.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>https://ali-yz.github.io/categories/cc/</loc>
+    <loc>http://localhost:1313/tags/cc/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>https://ali-yz.github.io/posts/</loc>
+    <loc>http://localhost:1313/categories/cc/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>https://ali-yz.github.io/tags/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-12-25T11:37:48+03:30</lastmod>
   </url><url>
-    <loc>https://ali-yz.github.io/series/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-25T11:37:48+03:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>

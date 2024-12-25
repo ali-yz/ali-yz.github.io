@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CC on Ali Yazdizadeh</title>
-    <link>http://localhost:1313/categories/cc/</link>
+    <link>http://localhost:1313/tags/cc/</link>
     <description>Recent content in CC on Ali Yazdizadeh</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 25 Dec 2024 11:37:48 +0330</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/cc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alii</title>
       <link>http://localhost:1313/posts/ali/</link>

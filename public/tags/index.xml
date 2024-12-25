@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ali Yazdizadeh</title>
-    <link>https://ali-yz.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Ali Yazdizadeh</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 25 Dec 2024 11:37:48 +0330</lastBuildDate>
-    <atom:link href="https://ali-yz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BB</title>
-      <link>https://ali-yz.github.io/tags/bb/</link>
+      <link>http://localhost:1313/tags/bb/</link>
       <pubDate>Wed, 25 Dec 2024 11:37:48 +0330</pubDate>
-      <guid>https://ali-yz.github.io/tags/bb/</guid>
+      <guid>http://localhost:1313/tags/bb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CC</title>
+      <link>http://localhost:1313/tags/cc/</link>
+      <pubDate>Wed, 25 Dec 2024 11:37:48 +0330</pubDate>
+      <guid>http://localhost:1313/tags/cc/</guid>
       <description></description>
     </item>
   </channel>

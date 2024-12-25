@@ -47,10 +47,16 @@ weight = 1
 url = "https://github.com/ali-yz/"
 
 [[params.social]]
+name = "Google Scholars"
+icon = "fa-brands fa-google-scholar fa-2x"
+weight = 2
+url = "https://scholar.google.com/citations?user=kony8dkAAAAJ&hl=en"
+
+[[params.social]]
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 2
-url = "https://www.linkedin.com/in/ali-yazdizade-kharrazi/"
+url = "https://www.linkedin.com/in/ali-yazdizadeh/"
 
 
 [languages.en]
