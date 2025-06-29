@@ -17,7 +17,7 @@ Hi there! My name is **Ali Yazdizadeh Kharrazi**, and I am a biotechnology gradu
   - **Max Planck Institute for Terrestrial Microbiology:** Designed a Bayesian Optimization tool for protein production (2020).
 
 - **Work Experience:**
-  - **DataChef - Netherlands**: Software (AI) Engineer
+  - **DataChef - Netherlands**: Software (AI) Engineer (2021--Now)
 
 ## Selected Publications
 - [Orthology inference at scale with FastOMA](https://www.nature.com/articles/s41592-024-02552-8) - *Nature Methods*
