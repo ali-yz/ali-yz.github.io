@@ -1,3 +1,9 @@
++++
+title = "About"
+date = 2025-06-30
+draft = false
++++
+
 # About Me
 
 Hi there! My name is **Ali Yazdizadeh Kharrazi**, and I am a biotechnology graduate and a ML Engineer with a keen interest in computational biology, machine learning, and music! I have a diverse background in research, with several publications in leading journals, spanning topics from genomics to optimization and synthetic biology.
